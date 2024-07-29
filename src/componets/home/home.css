@@ -40,6 +40,7 @@
   max-width: 600px;
   margin-bottom: var(--mb-3);
   color: var(--text-color);
+  text-align: justify;
 }
 
 /* For medium devices */
